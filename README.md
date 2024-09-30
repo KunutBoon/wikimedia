@@ -34,6 +34,8 @@ ROOT
 │   ├── Data Pre-Processing.ipynb                   <- Notebook for Data Processing
 │   ├── Model Training.ipynb                        <- Notebook for Model Training
 │   └── Post Model Development EDA.ipynb            <- Notebook for Post-Model Development EDA
+├── reference 
+│   └── picture                               <- All reference picture for displaying in README.md file
 ├── .gitignore
 ├── LICENSE
 ├── README.md
