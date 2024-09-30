@@ -109,6 +109,8 @@ more contribution : 'create' action
 </td>
 </tr>
 </table>
+
+
 - Despite all the threats to one of the biggest encyclopedia commulity, the process of user banning is still manual and sometimes might be considered as <b>inefficient, intolerable, and unproductive</b>.
 
 <a name='3.2'></a>
