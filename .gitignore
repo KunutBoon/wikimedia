@@ -24,4 +24,6 @@ venv.bak/
 .csv
 .joblib
 data/
-reference/
+reference/*
+!reference/picture/*.png
+!reference/picture/*.jpg
