@@ -1,4 +1,4 @@
-# Wikimedia Dump Challenge ![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
+# Wikimedia Dump Challenge ![Python Version](https://img.shields.io/badge/Python-3.10-blue)![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-orange)![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
 
 The demonstration of my work approach to ML model development using Wikipedia open data. The solution proposed in this challenge is the <b>"Machine Learning for detecting potential disruptive usages"</b> that might causes any damage to all human knowledge aviable on one of the most visited encyclopedia website; as of August 2024.
 
@@ -90,14 +90,14 @@ Finally, the execution order of each notebook should stricktly follow the given 
 <tr>
 <td>
 
-![log event](reference/picture/top_10_usage_cnt_block_user.jpg)
+![log event](reference/picture/top_10_usage_cnt_block_user.png)
 
 more vandalism : 'delete' action
 
 </td>
 <td>
 
-![log event](reference/picture/top_10_usage_cnt_req_user.jpg)
+![log event](reference/picture/top_10_usage_cnt_req_user.png)
 
 more contribution : 'create' action
 
@@ -158,7 +158,7 @@ Develop a ML algorithm to detect disruptive usages from both current and histori
 
 ## Feature Importance (Global SHAP)
 
-![](reference/picture/feature_importance.jpg)
+![](reference/picture/feature_importance.png)
 
 - The most importance features are related to previous <b>user bans history</b> **\[1-2\]**
 - The second-most importance features are related to <b>'delete’ action</b> **\[3, 5-6\]**
@@ -166,7 +166,7 @@ Develop a ML algorithm to detect disruptive usages from both current and histori
 
 ## Feature Value Impact on Prediction
 
-![](reference/picture/feature_direction.jpg)
+![](reference/picture/feature_direction.png)
 
 - <b>Recent 'block' history</b> indicates a higher chance of disruptive behaviors **\[1-2\]**
 - <b>High level of 'delete' activity</b> also indicates disruptive behaviors **\[3, 5-6, 8\]**
