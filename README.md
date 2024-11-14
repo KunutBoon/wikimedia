@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
 
 # Wikimedia Project 
-The demonstration of my work approach to ML model development using Wikipedia open data. The solution proposed in this challenge is the <b>"Machine Learning for detecting potential disruptive usages"</b> that might causes any damage to all human knowledge aviable on one of the most visited encyclopedia website; as of August 2024.
+The demonstration of my work approach for ML model development using Wikipedia open data. The solution proposed in this challenge is the <b>"Machine Learning for detecting potential disruptive usages"</b> that might causes any damage to all human knowledge aviable on one of the most visited encyclopedia website; as of August 2024.
 
 #### -- Project Status: [Completed]
 
